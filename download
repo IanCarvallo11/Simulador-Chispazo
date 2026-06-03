@@ -1,0 +1,6 @@
+# Archivo de estadisticas generado automaticamente al jugar
+estadisticas.json
+
+# Carpetas internas de Python
+__pycache__/
+*.pyc
